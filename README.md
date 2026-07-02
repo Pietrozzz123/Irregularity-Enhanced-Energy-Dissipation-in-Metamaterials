@@ -4,7 +4,7 @@ Code to reproduce the figures in the paper, all the code is in python. If you ha
 
 See the reference below for more details. If you use this code, please cite:
 
-- Y Zhao, P Zanin, E Stanifer, AE Motter. Disorder-promoted stability. (2026)
+- Y Zhao, P Zanin, E Stanifer, AE Motter. Irregularity-Enhanced Energy Dissipation in Metamaterials. (2026)
 
 # Usage
 
